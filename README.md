@@ -1,8 +1,10 @@
-<br><h1>프론트엔드 담당</h1></br>
+<br><h1>프론트엔드 담당</h1><p>UI/UX 총괄</p></br>
 
-<p>워너비 페이지 제작</p>
-<p>UI/UX 총괄</p>
-<p>반응형 웹 설계</p>
+워너비 페이지
+<p>(https://github.com/habeginner/wannabe/tree/main/wannabe_front/src/components/wannabe)</p>
+
+공통 컴포넌트
+<p>(https://github.com/habeginner/wannabe/tree/main/wannabe_front/src/components)</p>
 
 
 <br>기능 시연 영상</br>
