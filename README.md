@@ -8,7 +8,7 @@
 
 
 <br>기능 시연 영상</br>
-([https://youtu.be/52wm5uLW86w](https://www.youtube.com/watch?v=52wm5uLW86w))
+https://www.youtube.com/watch?v=52wm5uLW86w
 
 <br>작업 인원 4명</br>
 
